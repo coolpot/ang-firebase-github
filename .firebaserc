@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "fb-ghsearch": {
+      "hosting": {
+        "github-login-fb": [
+          "fb-ghsearch"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "fb-ghsearch"
+  }
+}
